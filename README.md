@@ -1,12 +1,10 @@
-[![MasterHead](Image.png)](Image.png)
+
 <h1 align="center">Hi 👋, I am Angel Caiza </h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
 </p>
 
-## **About me**# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Soy Angel Caiz!  
 *Desarrollador Full Stack*
-
 <!--Start Intro-->               
 <p align="left">Soy un apasionado desarrollador Full Stack con habilidades tanto en Frontend como Backend. Me encanta crear soluciones eficientes y visuales utilizando tecnologías como React.js, Angular, Node.js y PHP. Siempre estoy en busca de nuevos desafíos que me ayuden a crecer profesional y personalmente.</p>
 
