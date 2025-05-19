@@ -11,10 +11,12 @@
   Soy un apasionado desarrollador Full Stack con habilidades tanto en Frontend como Backend. Me encanta crear soluciones eficientes y visuales utilizando tecnologías como <strong>React.js, Angular, Node.js y PHP</strong>. Siempre estoy en busca de nuevos desafíos que me ayuden a crecer profesional y personalmente.
 </p>
 
+- 🎓 Graduado como Ingeniero en Desarrollo de Software en la Universidad Técnica de Ambato.
 - 🔥 Apasionado por el código limpio y las buenas prácticas.  
 - 🌱 Aprendiendo algo nuevo cada día.  
-- 💪 Contribuyendo al código abierto.  
+- 💪 Contribuyendo al código abierto.    
 - 💻 Mira mi [Portafolio](https://portafolio-steel-omega.vercel.app/) para conocer más sobre mí.
+
 
 <!--End Intro-->
 
