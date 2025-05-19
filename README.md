@@ -4,17 +4,24 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
 </p>
 
-## **About me** <picture><img src = "https://cdn.hashnode.com/res/hashnode/image/upload/v1709470801641/e9136368-41c7-433c-aa6f-89ca17b175bf.gif?w=256&h=256&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" width = 50px></picture>
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+## **About me**# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Soy Angel Caiz!  
+*Desarrollador Full Stack*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christianclop&label=Profile%20views&color=0e75b6&style=flat" alt="christianclop" /> </p>
+<!--Start Intro-->               
+<p align="left">Soy un apasionado desarrollador Full Stack con habilidades tanto en Frontend como Backend. Me encanta crear soluciones eficientes y visuales utilizando tecnologías como React.js, Angular, Node.js y PHP. Siempre estoy en busca de nuevos desafíos que me ayuden a crecer profesional y personalmente.</p>
 
-- 🔭 I graduated in software engineer from **Universidad Técnica de "Ambato"**
+- 🔥 Apasionado por el código limpio y las buenas prácticas.
+- 🌱 Aprendiendo algo nuevo cada día.
+- 💪 Contribuyendo al código abierto.
+- 💻 Mira mi [Portafolio](https://portafolio-steel-omega.vercel.app/) para conocer más sobre mí.
 
-- 🌱 I’m currently learning **Next.js**
+<!--End Intro-->
 
-- 📫 How to reach me **acaiza@gmail.com**
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Angel-Caiz&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Angel-Caiz" style="padding-right:20px;" />
+</p>
 
-- ⚡ About me **I like music and video games.**
+> 🚀 *"El código es como el humor. Cuando tienes que explicarlo, no es bueno."* – Cory House
 
 
