@@ -1,5 +1,5 @@
 [![MasterHead](Image.png)](Image.png)
-<h1 align="center">Hi 👋, I am Christian Chico</h1>
+<h1 align="center">Hi 👋, I am Angel Caiza </h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
 </p>
@@ -13,6 +13,8 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **christianchico.dev@outlook.com**
+- 📫 How to reach me **acaiza@gmail.com**
 
 - ⚡ About me **I like music and video games.**
+
+
