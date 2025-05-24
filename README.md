@@ -6,26 +6,39 @@
   </a>
 </p>
 
-<!--Start Intro-->               
+<!-- Start Sobre mí -->
+<h2>🙋‍♂️ Sobre mí</h2>
+
 <p align="left">
-  Soy un apasionado desarrollador Full Stack con habilidades tanto en Frontend como Backend. Me encanta crear soluciones eficientes y visuales utilizando tecnologías como <strong>React.js, Angular, Node.js y PHP</strong>. Siempre estoy en busca de nuevos desafíos que me ayuden a crecer profesional y personalmente.
+  <strong>Soy un apasionado desarrollador Full Stack</strong> con habilidades tanto en Frontend como Backend.<br/>
+  Me encanta crear soluciones eficientes y visuales utilizando tecnologías como 
+  <strong>React.js, Angular, Node.js y PHP</strong>.<br/>
+  Siempre estoy en busca de nuevos desafíos que me ayuden a crecer profesional y personalmente.
 </p>
 
-- 🎓 Graduado como Ingeniero en Desarrollo de Software en la Universidad Técnica de Ambato.
-- 🔥 Apasionado por el código limpio y las buenas prácticas.  
-- 🌱 Aprendiendo algo nuevo cada día.  
-- 💪 Contribuyendo al código abierto.    
-- 💻 Mira mi [Portafolio](https://portafolio-steel-omega.vercel.app/) para conocer más sobre mí.
+<blockquote>
+  🚀 <strong>“Si lo puedes imaginar, lo puedes programar.”</strong> – Alejandro Taboada (Programación ATS)
+</blockquote>
 
+*Desarrollador / Programador*
 
-<!--End Intro-->
+<div>
+  <img src="./imagen.webp"  align="right" width="40%">
+</div>
+
+<ul>
+  <li>🎓 Graduado como Ingeniero en Desarrollo de Software en la Universidad Técnica de Ambato.</li>
+  <li>🔥 Apasionado por el código limpio y las buenas prácticas.</li>
+  <li>🌱 Aprendiendo algo nuevo cada día.</li>
+  <li>💪 Contribuyendo al código abierto.</li>
+  <li>💻 Mira mi <a href="https://portafolio-steel-omega.vercel.app/">Portafolio</a> para conocer más sobre mí.</li>
+</ul>
+<!-- End Sobre mí -->
 
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Angel-Caiz&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Angel-Caiz" />
 </p>
-
-> 🚀 *"Si lo puedes imaginar, lo puedes programar."* – Alejandro Taboada (Programación ATS)
 
 ##  Sociañ :
 <a href="mailto:acaiza0272@gmail.com"><img alt="Email" src=""></a>
@@ -41,23 +54,39 @@
 <h3 align="left">FronEnd</h3>
  <ul align="left">
   <li>Angular</li>
-   <li>React</li>
+  <li>React</li>
 </ul>
 <h3 align="left">BackEnd</h3>
  <ul align="left">
   <li>Node.js.</li>
   <li>Php</li>
-   <li>JavaScript</li>
+  <li>JavaScript</li>
 </ul>
 <h3 align="left">Bases de Datos</h3>
  <ul align="left">
   <li>Mysql.</li>
-   <li>Posgrest</li>
+  <li>Posgrest</li>
   <li>SQL Server</li>
-   <li>firebase</li>
+  <li>firebase</li>
 </ul>
 <br />
 <br />
 <br />
 <br />
+<!-- Proyectos Destacados -->
+<h2>🚧 Proyectos destacados</h2>
 
+<table>
+<tr>
+  <td width="50%">
+  <h3 align="center">Gestión de Inventarios</h3>
+  <div align="center">
+    <a href="https://github.com/AngelCaiza/Gestion-de-Inventarios.git" target="_blank"><img src="./gestionInvn.jpg"" width="400" alt="Student Management"></a>
+    <p>
+      <a href="https://github.com/ChristianCLop/simdrive-frontend.git" target="_blank">
+        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p><strong>SimDrive</strong> is a didactic immersive learning experience with traffic rules in virtual worlds.</p>
+  </div>                
+</td>
