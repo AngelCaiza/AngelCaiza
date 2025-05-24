@@ -26,3 +26,38 @@
 </p>
 
 > 🚀 *"Si lo puedes imaginar, lo puedes programar."* – Alejandro Taboada (Programación ATS)
+
+##  Sociañ :
+<a href="mailto:acaiza0272@gmail.com"><img alt="Email" src=""></a>
+<a href=""><img alt="LinkedIn" src="">
+
+## Habilidades:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+<h3 align="left">FronEnd</h3>
+ <ul align="left">
+  <li>Angular</li>
+   <li>React</li>
+</ul>
+<h3 align="left">BackEnd</h3>
+ <ul align="left">
+  <li>Node.js.</li>
+  <li>Php</li>
+   <li>JavaScript</li>
+</ul>
+<h3 align="left">Bases de Datos</h3>
+ <ul align="left">
+  <li>Mysql.</li>
+   <li>Posgrest</li>
+  <li>SQL Server</li>
+   <li>firebase</li>
+</ul>
+<br />
+<br />
+<br />
+<br />
+
