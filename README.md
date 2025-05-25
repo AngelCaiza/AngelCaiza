@@ -1,8 +1,6 @@
 <p align="center">
   <img src="./perfil.png" alt="Angel Caiza Banner" style="max-width: 100%; height: auto;" />
 </p>
-
-<br>
 <h1 align="center">Hi 👋, soy Angel Caiza</h1>
 
 <p align="center">
