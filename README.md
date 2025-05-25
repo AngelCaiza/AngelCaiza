@@ -40,9 +40,16 @@
   <img src="https://komarev.com/ghpvc/?username=Angel-Caiz&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Angel-Caiz" />
 </p>
 
-##  Sociañ :
-<a href="mailto:acaiza0272@gmail.com"><img alt="Email" src=""></a>
-<a href=""><img alt="LinkedIn" src="">
+##  Social :
+<p align="center">
+  <a href="mailto:acaiza0272@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-acaiza0272@gmail.com-0077B5?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://linkedin.com/in/angelcaiza">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Angel_Caiza-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ## Habilidades:
 <picture>
@@ -131,3 +138,24 @@
   </div>                
 </td>
 </table>  
+<!-- Estadísticas -->
+<!-- Estadísticas -->
+<h2>📊 Estadísticas de GitHub</h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AngelCaiza&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=AngelCaiza&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelCaiza&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
