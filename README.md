@@ -41,7 +41,7 @@
   <img src="https://komarev.com/ghpvc/?username=AngelCaiza&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="AngelCaiza" />
 </p>
 
-##  🌐 Social :
+##  🌐 Social 
 <p align="center">
   <a href="mailto:acaiza0272@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-acaiza0272@gmail.com-0077B5?style=flat-square&logo=gmail&logoColor=white">
@@ -52,7 +52,7 @@
   </a>
 </p>
 
-## 🛠️  Habilidades:
+## 🛠️  Habilidades
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
