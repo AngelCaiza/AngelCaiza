@@ -8,11 +8,14 @@
 
 <!-- Start Sobre mí -->
 <h2>🙋‍♂️ Sobre mí</h2>
-
+<div>
+  <img  src= "https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"  align="right" width="50%">
+</div>
 <p align="left">
   <strong>Soy un apasionado desarrollador Full Stack</strong> con habilidades tanto en Frontend como Backend.<br/>
   Me encanta crear soluciones eficientes y visuales utilizando tecnologías como 
-  <strong>React.js, Angular, Node.js y PHP</strong>.<br/>
+  <strong>React.js, Angular,
+    Node.js y PHP</strong>.<br/>
   Siempre estoy en busca de nuevos desafíos que me ayuden a crecer profesional y personalmente.
 </p>
 
@@ -22,9 +25,7 @@
 
 *Desarrollador / Programador*
 
-<div>
-  <img src="./imagen.webp"  align="right" width="40%">
-</div>
+
 
 <ul>
   <li>🎓 Graduado como Ingeniero en Desarrollo de Software en la Universidad Técnica de Ambato.</li>
@@ -37,7 +38,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Angel-Caiz&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Angel-Caiz" />
+  <img src="https://komarev.com/ghpvc/?username=AngelCaiza&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="AngelCaiza" />
 </p>
 
 ##  🌐 Social :
@@ -65,13 +66,13 @@
 </ul>
 <h3 align="left">BackEnd</h3>
  <ul align="left">
-  <li>Node.js.</li>
+  <li>Node.js</li>
   <li>Php</li>
   <li>JavaScript</li>
 </ul>
 <h3 align="left">Bases de Datos</h3>
  <ul align="left">
-  <li>Mysql.</li>
+  <li>Mysql</li>
   <li>Posgrest</li>
   <li>SQL Server</li>
   <li>firebase</li>
