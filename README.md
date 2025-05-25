@@ -83,10 +83,51 @@
   <div align="center">
     <a href="https://github.com/AngelCaiza/Gestion-de-Inventarios.git" target="_blank"><img src="./gestionInvn.jpg"" width="400" alt="Student Management"></a>
     <p>
-      <a href="https://github.com/ChristianCLop/simdrive-frontend.git" target="_blank">
+      <a href="https://github.com/AngelCaiza/Gestion-de-Inventarios.git" target="_blank">
         <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
-    <p><strong>SimDrive</strong> is a didactic immersive learning experience with traffic rules in virtual worlds.</p>
+    <p><strong>Gestión de Inventario </strong>  es un sistema de gestión de inventarios desarrollado para la Universidad Técnica de Ambato.</p>
   </div>                
 </td>
+  
+  <td width="50%">
+  <h3 align="center">Chat Organizacional</h3>
+  <div align="center">
+    <a href="https://github.com/AngelCaiza/Chat-Organizacional.git" target="_blank"><img src="./chat.jpg"" width="400" alt="Student Management"></a>
+    <p>
+      <a href="https://github.com/AngelCaiza/Chat-Organizacional.git" target="_blank">
+        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p><strong>Chat Organizacional  </strong> es un sistema de chat organizacional diseñado para facilitar la comunicación interna entre los miembros de una empresa o equipo.</p>
+  </div>                
+</td>
+
+  </td>
+  <tr>
+  <td width="50%">
+  <h3 align="center">Gestiión de Ventas</h3>
+  <div align="center">
+    <a href="https://github.com/AngelCaiza/Gestion-de-Ventas.git" target="_blank"><img src="./ventas.jpg"" width="400" alt="Student Management"></a>
+    <p>
+      <a href="https://github.com/AngelCaiza/Gestion-de-Ventas.git" target="_blank">
+        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p><strong>Gestión de Ventas  </strong>  es un sistema de ventas con interfaz gráfica en Java Swing, desarrollado en NetBeans.</p>
+  </div>                
+</td>
+   <td width="50%">
+  <h3 align="center">Simulador Banco</h3>
+  <div align="center">
+    <a href="https://github.com/AngelCaiza/Simulador-Banco.git" target="_blank"><img src="./banco.jpg"" width="400" alt="Student Management"></a>
+    <p>
+      <a href="https://github.com/AngelCaiza/Simulador-Banco.git" target="_blank">
+        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p><strong>Simulador Banco </strong>es un simulador bancario desarrollado para calcular y visualizar tablas de amortización.</p>
+  </div>                
+</td>
+</table>  
