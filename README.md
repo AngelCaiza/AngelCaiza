@@ -35,7 +35,6 @@
   <li>🔥 Apasionado por el código limpio y las buenas prácticas.</li>
   <li>🌱 Aprendiendo algo nuevo cada día.</li>
   <li>💪 Contribuyendo al código abierto.</li>
-  <li>💻 Mira mi <a href="https://portafolio-steel-omega.vercel.app/">Portafolio</a> para conocer más sobre mí.</li>
 </ul>
 <!-- End Sobre mí -->
 
