@@ -15,11 +15,11 @@
   <img  src= "https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"  align="right" width="50%">
 </div>
 <p align="left">
-  <strong>Soy un apasionado desarrollador Full Stack</strong> con habilidades tanto en Frontend como Backend.<br/>
-  Me encanta crear soluciones eficientes y visuales utilizando tecnologías como 
+  <strong>-Soy un apasionado desarrollador Full Stack</strong> con habilidades tanto en Frontend como Backend.<br/>
+  -Me encanta crear soluciones eficientes y visuales utilizando tecnologías como 
   <strong>React.js, Angular,
     Node.js y PHP</strong>.<br/>
-  Siempre estoy en busca de nuevos desafíos que me ayuden a crecer profesional y personalmente.
+  -Siempre estoy en busca de nuevos desafíos que me ayuden a crecer profesional y personalmente.
 </p>
 
 <blockquote>
