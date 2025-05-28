@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./perfil2.png" alt="Angel Caiza Banner" style="max-width: 100%; height: auto;" />
 </p>
-<h1 align="center">Hi 👋, soy Angel Caiza</h1>
+<h1 align="center">Hi 👋, Soy Angel Caiza</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
