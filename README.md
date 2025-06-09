@@ -85,78 +85,88 @@
 <br />
 <!-- Proyectos Destacados -->
 <h2>🚧 Mis Proyectos mas destacados</h2>
-
 <table>
-<tr>
-  <td width="50%">
-  <h3 align="center">Gestión de Inventarios</h3>
-  <div align="center">
-    <a href="https://github.com/AngelCaiza/Gestion-de-Inventarios.git" target="_blank"><img src="./gestionInvn.jpg"" width="400" alt="Student Management"></a>
-    <p>
-      <a href="https://github.com/AngelCaiza/Gestion-de-Inventarios.git" target="_blank">
-        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </p>
-    <p><strong>Gestión de Inventario </strong>  es un sistema de gestión de inventarios desarrollado para la Universidad Técnica de Ambato.</p>
-  </div>                
-</td>
-  
-  <td width="50%">
-  <h3 align="center">Chat Organizacional</h3>
-  <div align="center">
-    <a href="https://github.com/AngelCaiza/Chat-Organizacional.git" target="_blank"><img src="./chat.jpg"" width="400" alt="Student Management"></a>
-    <p>
-      <a href="https://github.com/AngelCaiza/Chat-Organizacional.git" target="_blank">
-        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </p>
-    <p><strong>Chat Organizacional  </strong> es un sistema de chat organizacional diseñado para facilitar la comunicación interna entre los miembros de una empresa o equipo.</p>
-  </div>                
-</td>
-
-  </td>
   <tr>
-  <td width="50%">
-  <h3 align="center">Gestiión de Ventas</h3>
-  <div align="center">
-    <a href="https://github.com/AngelCaiza/Gestion-de-Ventas.git" target="_blank"><img src="./ventas.jpg"" width="400" alt="Student Management"></a>
-    <p>
-      <a href="https://github.com/AngelCaiza/Gestion-de-Ventas.git" target="_blank">
-        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </p>
-    <p><strong>Gestión de Ventas  </strong>  es un sistema de ventas con interfaz gráfica en Java Swing, desarrollado en NetBeans.</p>
-  </div>                
-</td>
-   <td width="50%">
-      <tr>
-  <h3 align="center">Simulador Banco</h3>
-  <div align="center">
-    <a href="https://github.com/AngelCaiza/Simulador-Banco.git" target="_blank"><img src="./banco.jpg"" width="400" alt="Student Management"></a>
-    <p>
-      <a href="https://github.com/AngelCaiza/Simulador-Banco.git" target="_blank">
-        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </p>
-    <p><strong>Simulador Banco </strong>es un simulador bancario desarrollado para calcular y visualizar tablas de amortización.</p>
-  </div>                
-</td>
+    <td width="50%">
+      <h3 align="center">Gestión de Inventarios</h3>
+      <div align="center">
+        <a href="https://github.com/AngelCaiza/Gestion-de-Inventarios.git" target="_blank">
+          <img src="./gestionInvn.jpg" width="400" alt="Gestión de Inventarios">
+        </a>
+        <p>
+          <a href="https://github.com/AngelCaiza/Gestion-de-Inventarios.git" target="_blank">
+            <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p><strong>Gestión de Inventario</strong> es un sistema de gestión de inventarios desarrollado para la Universidad Técnica de Ambato.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Chat Organizacional</h3>
+      <div align="center">
+        <a href="https://github.com/AngelCaiza/Chat-Organizacional.git" target="_blank">
+          <img src="./chat.jpg" width="400" alt="Chat Organizacional">
+        </a>
+        <p>
+          <a href="https://github.com/AngelCaiza/Chat-Organizacional.git" target="_blank">
+            <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p><strong>Chat Organizacional</strong> es un sistema de chat organizacional diseñado para facilitar la comunicación interna entre los miembros de una empresa o equipo.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Gestión de Ventas</h3>
+      <div align="center">
+        <a href="https://github.com/AngelCaiza/Gestion-de-Ventas.git" target="_blank">
+          <img src="./ventas.jpg" width="400" alt="Gestión de Ventas">
+        </a>
+        <p>
+          <a href="https://github.com/AngelCaiza/Gestion-de-Ventas.git" target="_blank">
+            <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p><strong>Gestión de Ventas</strong> es un sistema de ventas con interfaz gráfica en Java Swing, desarrollado en NetBeans.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Simulador Banco</h3>
+      <div align="center">
+        <a href="https://github.com/AngelCaiza/Simulador-Banco.git" target="_blank">
+          <img src="./banco.jpg" width="400" alt="Simulador Banco">
+        </a>
+        <p>
+          <a href="https://github.com/AngelCaiza/Simulador-Banco.git" target="_blank">
+            <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p><strong>Simulador Banco</strong> es un simulador bancario desarrollado para calcular y visualizar tablas de amortización.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Blog</h3>
+      <div align="center">
+        <a href="https://github.com/AngelCaiza/Blog.git" target="_blank">
+          <img src="./blog.jpg" width="400" alt="Blog">
+        </a>
+        <p>
+          <a href="https://github.com/AngelCaiza/Blog.git" target="_blank">
+            <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p><strong>Blog</strong> es sitio desarrollado para compartir artículos, noticias y reflexiones. Permite crear, editar y eliminar publicaciones, categorías y comentarios.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <!-- Si tienes otro proyecto, ponlo aquí. Si no, puedes dejarlo vacío o eliminar este <td> -->
+    </td>
+  </tr>
+</table>
 
-  <td width="50%">
-  <h3 align="center">Blog</h3>
-  <div align="center">
-    <a href="https://github.com/AngelCaiza/Blog.git" target="_blank"><img src="./blog.jpg"" width="400" alt="Student Management"></a>
-    <p>
-      <a href="https://github.com/AngelCaiza/Blog.git" target="_blank">
-        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </p>
-    <p><strong>Chat Organizacional  </strong> es un sistema de chat organizacional diseñado para facilitar la comunicación interna entre los miembros de una empresa o equipo.</p>
-  </div>                
-</td>
-
-
-</table>  
 <!-- Estadísticas -->
 <!-- Estadísticas -->
 <h2>📊 Estadísticas de GitHub</h2>
