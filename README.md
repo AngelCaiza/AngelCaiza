@@ -129,7 +129,7 @@
   </div>                
 </td>
    <td width="50%">
-       <tr>
+      <tr>
   <h3 align="center">Simulador Banco</h3>
   <div align="center">
     <a href="https://github.com/AngelCaiza/Simulador-Banco.git" target="_blank"><img src="./banco.jpg"" width="400" alt="Student Management"></a>
