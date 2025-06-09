@@ -76,7 +76,6 @@
 <h3 align="left">Bases de Datos</h3>
  <ul align="left">
   <li>Mysql</li>
-  <li>Posgrest</li>
   <li>SQL Server</li>
   <li>firebase</li>
 </ul>
