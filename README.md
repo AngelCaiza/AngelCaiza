@@ -63,6 +63,8 @@
 <br />
 <h3 align="left">FronEnd</h3>
  <ul align="left">
+     <li>Html/Css</li>
+     <li>JavaScript</li>
   <li>Angular</li>
   <li>React</li>
 </ul>
@@ -70,7 +72,8 @@
  <ul align="left">
   <li>Node.js</li>
   <li>Php</li>
-  <li>JavaScript</li>
+   <li>Paython</li>
+     <li>Java</li>
 </ul>
 <h3 align="left">Bases de Datos</h3>
  <ul align="left">
