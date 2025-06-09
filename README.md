@@ -141,9 +141,7 @@
   </div>                
 </td>
 
-    </td>
-     <tr>
-   <td width="50%">
+  <td width="50%">
   <h3 align="center">Blog</h3>
   <div align="center">
     <a href="https://github.com/AngelCaiza/Blog.git" target="_blank"><img src="./blog.jpg"" width="400" alt="Student Management"></a>
@@ -152,9 +150,11 @@
         <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
-    <p><strong>Simulador Banco </strong>es un simulador bancario desarrollado para calcular y visualizar tablas de amortización.</p>
+    <p><strong>Chat Organizacional  </strong> es un sistema de chat organizacional diseñado para facilitar la comunicación interna entre los miembros de una empresa o equipo.</p>
   </div>                
 </td>
+
+
 </table>  
 <!-- Estadísticas -->
 <!-- Estadísticas -->
