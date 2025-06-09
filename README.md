@@ -140,6 +140,20 @@
     <p><strong>Simulador Banco </strong>es un simulador bancario desarrollado para calcular y visualizar tablas de amortización.</p>
   </div>                
 </td>
+
+    </td>
+   <td width="50%">
+  <h3 align="center">Blog</h3>
+  <div align="center">
+    <a href="https://github.com/AngelCaiza/Blog.git" target="_blank"><img src="./blog.jpg"" width="400" alt="Student Management"></a>
+    <p>
+      <a href="https://github.com/AngelCaiza/Blog.git" target="_blank">
+        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p><strong>Simulador Banco </strong>es un simulador bancario desarrollado para calcular y visualizar tablas de amortización.</p>
+  </div>                
+</td>
 </table>  
 <!-- Estadísticas -->
 <!-- Estadísticas -->
