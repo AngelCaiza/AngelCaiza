@@ -45,17 +45,13 @@
 
 ##  🌐 Social 
 <p align="center">
-  <a href="mailto:acaiza0272@gmail.com" target="_blank">
+  <a href="mailto:acaiza0272@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-acaiza0272@gmail.com-0077B5?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/angelcaiza" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Angel_Caiza-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/angel-gabriel-caiza-llanganate-93a671369/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Angel_Caiza-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-</p>
 
+  <a href="https://linkedin.com/in/angelcaiza">
+<a href="https://www.linkedin.com/in/angel-gabriel-caiza-llanganate-93a671369/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Angel_Caiza-0077B5?style=flat-square&logo=linkedin&logoColor=white">  </a>
+</p>
 
 ## 🛠️  Habilidades
 <picture>
